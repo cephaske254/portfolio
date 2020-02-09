@@ -15,4 +15,4 @@ Cephas Kipyego Too
 
 
 ## Live Page
-[Open Live Page](https://github.com/cephaske254/portfolio)  
+[Open Live Page](https://cephaske254/github.io/portfolio)  
